@@ -14,3 +14,7 @@
 | 10  | Matthew 6     | ✅ 6 min  | Honestly, I just prayed and read the Scriptures                                                                                         |
 | 11  | Matthew 7     | ✅ 20 min | Rest is holy. Restoration fuels consistency, Judge NOT that ye may NOT be judged                                                        |
 | 12  | Matthew 8     | ✅ 15 min | Discipline becomes easier when body syncs... I read this part in the night and i was actually sleeping off... but i managed to complete |
+| 13  | Matthew 9     | ✅ 30min  | Risk clarity is like spiritual clarity—no fear                                                                                          |
+| 14  | Matthew 9     | ✅ 15min  | Fundamentals give confidence, not prediction                                                                                            |
+| 15  | ❌ Missed     | ✅ 15min  | Physical motion resets the spiritual and cognitive mindsets                                                                             |
+|     |
