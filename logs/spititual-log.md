@@ -17,4 +17,4 @@
 | 13  | Matthew 9     | ✅ 30min  | Risk clarity is like spiritual clarity—no fear                                                                                          |
 | 14  | Matthew 9     | ✅ 15min  | Fundamentals give confidence, not prediction                                                                                            |
 | 15  | ❌ Missed     | ✅ 15min  | Physical motion resets the spiritual and cognitive mindsets                                                                             |
-|     |
+| 16  | ❌ Missed     | ✅ 15min  | Obedience even without clarity builds inner alignment                                                                                   |
