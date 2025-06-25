@@ -18,3 +18,4 @@
 | 14  | Matthew 9     | ✅ 15min  | Fundamentals give confidence, not prediction                                                                                            |
 | 15  | ❌ Missed     | ✅ 15min  | Physical motion resets the spiritual and cognitive mindsets                                                                             |
 | 16  | ❌ Missed     | ✅ 15min  | Obedience even without clarity builds inner alignment                                                                                   |
+| 17  | ❌ Missed     | ✅ 20min  | Control your emotions, not the outcome. Neutrality = strength                                                                           |
